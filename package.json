@@ -1,0 +1,27 @@
+{
+  "name": "di-node",
+  "version": "0.0.1",
+  "description": "A sample npm package demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/knomdlo/di-node.git"
+  },
+  "bin": {
+    "sample": "bin/sample.js"
+  },
+  "keywords": [
+    "di-demo"
+  ],
+  "author": "Banu Prakash J",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/knomdlo/di-node/issues"
+  },
+  "homepage": "https://github.com/knomdlo/di-node#readme",
+  "dependencies": {
+  }
+}

@@ -11,7 +11,7 @@
     "url": "git+https://github.com/knomdlo/di-node.git"
   },
   "bin": {
-    "sample": "bin/sample.js"
+    "findSum": "bin/sample.js"
   },
   "keywords": [
     "di-demo"
@@ -22,6 +22,12 @@
     "url": "https://github.com/knomdlo/di-node/issues"
   },
   "homepage": "https://github.com/knomdlo/di-node#readme",
+
   "dependencies": {
+    "jQuery" : "*"
+  },
+
+  "devDependencies": {
+    "jshint": "2.9.1"
   }
 }
